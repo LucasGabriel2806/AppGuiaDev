@@ -12,7 +12,9 @@ androidx.coordinatorlayout.widget.CoordinatorLayout;E:\Escola\Desenvolvimento de
 attr;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml
 background;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\120\res\drawable\splash_screen.xml
 cache-path;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\120\res\drawable\splash_screen.xml
 color;obj\Debug\120\res\values\colors.xml
 com.google.android.material.appbar.AppBarLayout;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\layout\flyoutcontent.xml
 com.google.android.material.appbar.AppBarLayout;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
@@ -28,6 +30,9 @@ foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
 item;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\values\styles.xml
+item;obj\Debug\120\res\drawable\splash_screen.xml
+item;obj\Debug\120\res\values\styles.xml
+layer-list;obj\Debug\120\res\drawable\splash_screen.xml
 LinearLayout;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
 paths;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;E:\Escola\Desenvolvimento de Sistemas\Materias\Pro mob I\Apps\Apps_principais\AppGuiaDev\AppGuiaDev\AppGuiaDev.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml

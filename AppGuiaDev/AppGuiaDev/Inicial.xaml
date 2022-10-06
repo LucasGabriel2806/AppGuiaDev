@@ -12,10 +12,12 @@
 
                 <Label Text="Olá! Este é o App para guiá-lo pelo Curso Técnico em Desenvolvimento de Sistemas"
                    FontSize="Medium"
+                   TextColor="Black"
                    Style="{ StaticResource textoCentralizado }" />
 
                 <Label Text="O Curso tem três módulos e dura um ano e meio. Pensamos em desenvolver este App para explicar o conteúdo"
                    FontSize="Medium"
+                   TextColor="Black"
                    Style="{ StaticResource textoCentralizado }" />
 
                 <Label Text="Em breve este App estará disponivel na Play Store para download."
@@ -24,7 +26,7 @@
 
                 <Image Source="foto_segundo_modulo_2_sem_2019" />
 
-                <Label Text="Este App foi desenvolvido sob a orientação de Prof. Tiago A. Silva e da Profa. Nídia Castelli"
+                <Label Text="Este App foi desenvolvido sob a orientação de Prof. Tiago A. Silva e da Prof. Marcos"
                    Style="{ StaticResource textoCentralizado }" />
 
 

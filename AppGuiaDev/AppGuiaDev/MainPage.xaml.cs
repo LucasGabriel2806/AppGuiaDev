@@ -11,6 +11,8 @@ using AppGuiaDev.Views;
 namespace AppGuiaDev
 {
     [DesignTimeVisible(false)]
+
+    
     public partial class MainPage : MasterDetailPage
     {
         public MainPage()

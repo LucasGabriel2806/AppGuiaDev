@@ -6,6 +6,13 @@
         
         <ResourceDictionary>
 
+            <Style x:Key="textoCentralizado" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+            
+            
             <Style x:Key="botaoVermelho" TargetType="Button">
                 <Setter Property="BackgroundColor" Value="#AB0209" />
                 <Setter Property="TextColor" Value="#FFF" />
@@ -17,6 +24,8 @@
                 <Setter Property="TextColor" Value="#FFFFFF" />
                 <Setter Property="CornerRadius"  Value="5" />
             </Style>
+
+            
 
         </ResourceDictionary>
 

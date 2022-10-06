@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppGuiaDev.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +13,10 @@ namespace AppGuiaDev.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class VerComponente : ContentPage
     {
-        public VerComponente()
+        public VerComponente(Componente c)
         {
             InitializeComponent();
+            BindingContext = c;
         }
     }
 }
