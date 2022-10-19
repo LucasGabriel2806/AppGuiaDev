@@ -14,8 +14,14 @@
             <Label Text="R. Humaitá, 1090 - Centro - CEP: 17201-320 - Jaú/SP"
                    VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
 
-            <Button Text="Tel/Fax: (14) 3622-3566 / 3624-8585" Margin="10"
+            <Button Text="Tel: (14) 3622-3566" Margin="10"
                     Clicked="Button_Clicked" Style="{ StaticResource botaoVermelho }" />
+
+            <Button Text="Enviar E-Mail" Margin="10"
+                    Clicked="Button_Clicked_1" Style="{ StaticResource botaoCinza }" />
+            
+            <Button Text="Chamar no Whatsapp" Margin="10"
+                    Clicked="Button_Clicked_2" Style="{ StaticResource botaoVermelho }" />
 
             <Label Text="E-mail: Diretoria: e070dir@cps.sp.gov.br" VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand" />

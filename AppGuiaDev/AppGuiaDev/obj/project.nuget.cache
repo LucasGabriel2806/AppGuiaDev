@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a+a9FIG5Cg5eFjGdp8es5Ta0BZ4i/e/x2KQ0RPWfQA0/To5EueMRiMwz73Haa/8t88vIiw8fKUcwAmqO6NhhFw==",
+  "dgSpecHash": "k13ORrBmJg1fGX1n+UcJ3FZt9Yg6kskmSiMfJJUqC1o/NMJhac5I8socieIxgzQ6puAbslgV3FUcPI5Nlo0/EQ==",
   "success": true,
   "projectFilePath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms.openwhatsapp\\1.0.1\\xamarin.forms.openwhatsapp.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

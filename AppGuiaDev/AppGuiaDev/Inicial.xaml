@@ -24,7 +24,7 @@
                    TextColor="#AB0209"
                    Style="{ StaticResource textoCentralizado }" />
 
-                <Image Source="foto_segundo_modulo_2_sem_2019" />
+                <Image Source="foto_segundo_modulo_2_sem_2019" Aspect="AspectFit" Background="red" />
 
                 <Label Text="Este App foi desenvolvido sob a orientação de Prof. Tiago A. Silva e da Prof. Marcos"
                    Style="{ StaticResource textoCentralizado }" />

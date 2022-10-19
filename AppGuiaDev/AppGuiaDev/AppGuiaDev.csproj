@@ -11,13 +11,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Img\NovaPasta\**" />
     <Compile Remove="NovaPasta1\**" />
     <Compile Remove="NovaPasta\**" />
-    <EmbeddedResource Remove="Img\NovaPasta\**" />
     <EmbeddedResource Remove="NovaPasta1\**" />
     <EmbeddedResource Remove="NovaPasta\**" />
-    <None Remove="Img\NovaPasta\**" />
     <None Remove="NovaPasta1\**" />
     <None Remove="NovaPasta\**" />
   </ItemGroup>
@@ -25,6 +22,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Xamarin.Forms.OpenWhatsApp" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>

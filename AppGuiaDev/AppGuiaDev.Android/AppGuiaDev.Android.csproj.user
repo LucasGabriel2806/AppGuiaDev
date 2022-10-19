@@ -3,8 +3,9 @@
   <PropertyGroup>
     <SelectedDevice>Samsung SM-J260MU</SelectedDevice>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
-    <ActiveDebugProfile>Samsung SM-J260MU</ActiveDebugProfile>
+    <ActiveDebugProfile>Samsung SM-J260MU %28Android 8.1 – API 27%29</ActiveDebugProfile>
     <DefaultDevice>pixel_5_-_api_31</DefaultDevice>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "quS3PEnofqIXTHb9aCy1jnkfis0YLijwxi+md2ye37PHI5iLmob3WTO5gpcS/zTOjJ53w3X3HbnCrhywcVPY8A==",
+  "dgSpecHash": "1G8Dz5u1QGIrwk4eWr49kqCpvDq4wz58oAgYEk/QnGMuhT4hqHgXUe2BholhJPm5syNiXcEqftZp3/2xRDbs8Q==",
   "success": true,
   "projectFilePath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms.openwhatsapp\\1.0.1\\xamarin.forms.openwhatsapp.1.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
