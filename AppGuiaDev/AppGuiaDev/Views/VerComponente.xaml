@@ -25,6 +25,8 @@
                     <Label Text="{Binding ValoresAtitudes}" 
                            FontSize="Medium" HorizontalTextAlignment="Center" />
 
+                    
+
                 </StackLayout>
             </ScrollView>
         </StackLayout>

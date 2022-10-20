@@ -572,11 +572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
       "projectName": "AppGuiaDev",
-      "projectPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

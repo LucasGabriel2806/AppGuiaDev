@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj": {}
+    "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj": {}
   },
   "projects": {
-    "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
         "projectName": "AppGuiaDev.Droid",
-        "projectPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
-                "projectPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj"
+              "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
         "projectName": "AppGuiaDev",
-        "projectPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.Inicial"
-             BackgroundColor="#F3F2F0"
+             BackgroundColor="#000"
              Title="App Guia do Curso de DS">
     <ContentPage.Content>
 
@@ -12,12 +12,12 @@
 
                 <Label Text="Olá! Este é o App para guiá-lo pelo Curso Técnico em Desenvolvimento de Sistemas"
                    FontSize="Medium"
-                   TextColor="Black"
+                   TextColor="White"
                    Style="{ StaticResource textoCentralizado }" />
 
                 <Label Text="O Curso tem três módulos e dura um ano e meio. Pensamos em desenvolver este App para explicar o conteúdo"
                    FontSize="Medium"
-                   TextColor="Black"
+                   TextColor="White"
                    Style="{ StaticResource textoCentralizado }" />
 
                 <Label Text="Em breve este App estará disponivel na Play Store para download."

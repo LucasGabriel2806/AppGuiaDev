@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k13ORrBmJg1fGX1n+UcJ3FZt9Yg6kskmSiMfJJUqC1o/NMJhac5I8socieIxgzQ6puAbslgV3FUcPI5Nlo0/EQ==",
+  "dgSpecHash": "PDpVItEra9Tq0IDBm8GHQvQTiv9/GspP2f4p6tgxmjFHBPnv/gHFMOfz+KqDTnkTTmIjjYVbTUSzSa/f7aGjsA==",
   "success": true,
-  "projectFilePath": "E:\\Escola\\Desenvolvimento de Sistemas\\Materias\\Pro mob I\\Apps\\Apps_principais\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

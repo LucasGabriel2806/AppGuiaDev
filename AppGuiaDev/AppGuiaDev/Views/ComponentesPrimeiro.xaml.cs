@@ -32,7 +32,12 @@ namespace AppGuiaDev.Views
 
                     ValoresAtitudes = "Incentivar o diálogo e a interlocução. º Responsabilizar-se pela produção, utilização e " +
                                       "divulgação de informações. º Estimular a proatividade. "
-                };
+
+                                      
+                
+
+            };
+
 
                 await Navigation.PushAsync(new VerComponente(c));
             }
@@ -122,8 +127,13 @@ namespace AppGuiaDev.Views
                     AtribuicoesResponsabilidades = "Desenvolver elementos gráficos para aplicativos e sites.  ",
 
                     ValoresAtitudes = "Incentivar a criatividade. º Respeitar as manifestações culturais de outros povos." +
-                                      " º Incentivar ações que promovam a cooperação. "
-                };
+                                      " º Incentivar ações que promovam a cooperação. ",
+
+                
+
+            };
+
+
 
                 await Navigation.PushAsync(new VerComponente(c));
             }

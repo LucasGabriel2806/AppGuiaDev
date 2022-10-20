@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.Views.ComponentesPrimeiro"
-             BackgroundColor="#F3F2F0"
+             BackgroundColor="	#000000"
              Title="Disciplinas do Primeiro Módulo">
     <ContentPage.Content>
         
@@ -18,7 +18,7 @@
                 <Button Text="Fundamentos da Informática" Clicked="Button_Clicked_6" Style="{ StaticResource botaoCinza }" />
                 <Button Text="Técnicas de Programação" Clicked="Button_Clicked_7" Style="{ StaticResource botaoCinza }" />
 
-
+                
 
 
 
