@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.Views.VerComponente"
-             BackgroundColor="#F3F2F0"
+             BackgroundColor="#1C1C1C"
              Title="Detalhes de Componente">
     
     <ContentPage.Content>
@@ -17,15 +17,20 @@
                            TextColor="#F3F2F0" BackgroundColor="#3E474C" FontSize="Large" />
 
                     <Label Text="{Binding AtribuicoesResponsabilidades}" 
-                           Margin="0, 0, 0, 30" FontSize="Medium" HorizontalTextAlignment="Center" />
+                           Margin="0, 0, 0, 30" FontSize="Medium" HorizontalTextAlignment="Center" TextColor="#F3F2F0"/>
 
                     <Label Text="Valores e Atítudes" HorizontalTextAlignment="Center"
                            BackgroundColor="#3E474C" TextColor="#F3F2F0" FontSize="Large" />
 
                     <Label Text="{Binding ValoresAtitudes}" 
-                           FontSize="Medium" HorizontalTextAlignment="Center" />
+                           FontSize="Medium" HorizontalTextAlignment="Center" TextColor="#F3F2F0"/>
 
-                    
+                    <Grid ColumnDefinitions="*, *, *"
+                          RowDefinitions="*">
+                        <Image Source="{Binding ImageExemplo}" Grid.Row="0" Grid.Column="0" WidthRequest="100" HeightRequest="100"/>
+                        <Image Source="{Binding ImageExemplo2}" Grid.Row="0" Grid.Column="1" WidthRequest="100" HeightRequest="90"/>
+                        <Image Source="{Binding ImageExemplo3}" Grid.Row="0" Grid.Column="2" WidthRequest="100" HeightRequest="100"/>
+                    </Grid>
 
                 </StackLayout>
             </ScrollView>

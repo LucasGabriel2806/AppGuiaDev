@@ -14,6 +14,9 @@ namespace AppGuiaDev.Models
         public string Habilidades { get; set; }
         public string BasesTecnologicas { get; set; }
 
+        public string ImageExemplo { get; set; }
+        public string ImageExemplo2 { get; set; }
+        public string ImageExemplo3 { get; set; }
 
     }
 }

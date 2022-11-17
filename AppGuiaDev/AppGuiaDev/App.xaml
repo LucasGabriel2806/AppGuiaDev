@@ -26,11 +26,19 @@
                 <Setter Property="CornerRadius"  Value="5" />
             </Style>
 
-            <Style x:Key="botaoVerde" TargetType="Button">
-                <Setter Property="BackgroundColor" Value="#32CD32" />
-                <Setter Property="TextColor" Value="#FFF" />
+            <Style x:Key="botaoZap" TargetType="ImageButton">
                 <Setter Property="CornerRadius"  Value="5" />
             </Style>
+
+            <Style x:Key="botaoTel" TargetType="ImageButton">
+                <Setter Property="CornerRadius"  Value="5" />
+            </Style>
+
+            <Style x:Key="botaoEmail" TargetType="ImageButton">
+                <Setter Property="CornerRadius"  Value="5" />
+            </Style>
+
+
 
             <Style x:Key="botaoCinza" TargetType="Button">
                 <Setter Property="BackgroundColor" Value="#3E474C" />

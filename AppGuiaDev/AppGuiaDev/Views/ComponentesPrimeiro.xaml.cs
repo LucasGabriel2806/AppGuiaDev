@@ -154,7 +154,13 @@ namespace AppGuiaDev.Views
                     AtribuicoesResponsabilidades = "Desenvolver sites para Web",
 
                     ValoresAtitudes = "Incentivar a criatividade. º Estimular a organização. º Fortalecer a persistência " +
-                                      "e o interesse na resolução de situações-problema. "
+                                      "e o interesse na resolução de situações-problema. ",
+
+                    ImageExemplo = "icone_html5.png",
+                    ImageExemplo2 = "icone_css3.png",
+                    ImageExemplo3 = "icone_bootstrap.png"
+
+
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));

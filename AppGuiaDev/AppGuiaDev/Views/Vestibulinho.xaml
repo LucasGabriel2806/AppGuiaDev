@@ -2,14 +2,20 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.Views.Vestibulinho"
+             BackgroundColor="#1C1C1C"
              Title="Vestibulinho">
     <ContentPage.Content>
         
-        <StackLayout VerticalOptions="CenterAndExpand" Padding="10"> 
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
+
+            <Label Text="         O que é o Vestibulinho?" VerticalTextAlignment="Start" 
+                    VerticalOptions="StartAndExpand"
+                   FontAttributes="Bold" FontSize="Title" TextColor="Red" Background="white"/>
             
-            <Label Text="FIQUE ATENTO AS DATAS, ACESSE O SITE ABAIXO"
-                HorizontalTextAlignment="Center" 
-                FontAttributes="Bold" Margin="10" FontSize="Title" />
+            <Label Text="É um processo seletivo que seleciona candidatos para as Escolas Técnicas Estaduais (Etecs)." 
+                   FontSize="Medium" TextColor="White"/>
+
+            
 
             <Button Text="Inscreva-se pelo site: www.vestibulinhoetec.com.br"
                     Style="{ StaticResource botaoVermelho }" Clicked="Button_Clicked"/>

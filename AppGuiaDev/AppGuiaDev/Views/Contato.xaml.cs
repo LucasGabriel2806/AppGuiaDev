@@ -24,7 +24,7 @@ namespace AppGuiaDev.Views
             // Telefone
             try
             {
-                await Launcher.OpenAsync("tel:+1436223566");
+                await Launcher.OpenAsync("tel:+55 14 36223566");
             }
             catch (Exception ex)
             {
@@ -52,16 +52,17 @@ namespace AppGuiaDev.Views
 
         private async void Button_Clicked_2(object sender, EventArgs e)
         {
-            // E-Mail
+            // Whatsapp
+
             try
             {
                 Chat.Open("+1436223566", "E ae, fala mais do curso de TI");
             }
             catch (Exception ex)
             {
-                if(await DisplayAlert("Ops, deu um erro", "Não conseguimos abrir o WhatsApp. Quer ligar para (14) 3622-3566 ?", "Ligar", "Agora Não"))
+                if(await DisplayAlert("Ops, deu um erro", "Não conseguimos abrir o WhatsApp. Quer ligar para +55 (14) 3622-3566 ?", "Ligar", "Agora Não"))
                 {
-                    await Launcher.OpenAsync("tel:+551436223566");
+                    await Launcher.OpenAsync("tel:+5514996794615");
                 }
                
 
