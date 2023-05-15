@@ -3433,24 +3433,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aparecida Jaú\\.nuget\\packages\\": {},
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
+      "projectUniqueName": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
       "projectName": "AppGuiaDev.Droid",
-      "projectPath": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
-      "packagesPath": "C:\\Users\\Aparecida Jaú\\.nuget\\packages\\",
-      "outputPath": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\obj\\",
+      "projectPath": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\AppGuiaDev.Android.csproj",
+      "packagesPath": "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aparecida Jaú\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aparecida_Jau\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3464,8 +3464,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
-              "projectPath": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj"
+            "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
+              "projectPath": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj"
             }
           }
         }

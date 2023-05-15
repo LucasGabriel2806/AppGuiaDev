@@ -2,6 +2,16 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.App">
+    
+    <!--
+    Criamos esse app e branco e não com o modelo pronto de MasterDetail, pois
+    ele gera códgido no MVVM, e nesse momento não aprendemos MVVM, então é
+    melhor começar em branco, adaptarmos o código e aprendermos desse jeito.
+    Do outro jeito seria mais dificil de entender como o padrão funciona.
+    
+    Aqui defino os estilos do meu app, posso fazer isso em outro arquivo, mas
+    não é recomendado.
+    -->
     <Application.Resources>
         
         <ResourceDictionary>

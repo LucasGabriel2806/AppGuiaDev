@@ -1,1 +1,1 @@
-<resources><color name="launcher_background">#EA131F</color><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color><color name="splash_background">#FFFFFF </color></resources>
+<resources><color name="launcher_background">#EA131F</color><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color><!--cor de fundo da splash screen--><color name="splash_background">#FFFFFF </color></resources>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {}
+    "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {}
   },
   "projects": {
-    "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
+    "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+        "projectUniqueName": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
         "projectName": "AppGuiaDev",
-        "projectPath": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
-        "packagesPath": "C:\\Users\\Aparecida Jaú\\.nuget\\packages\\",
-        "outputPath": "D:\\2º DS\\Pro Mob I\\Apps\\Guia Dev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
+        "projectPath": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev.csproj",
+        "packagesPath": "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Apps\\AppGuiaDev\\AppGuiaDev\\AppGuiaDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aparecida Jaú\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aparecida_Jau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

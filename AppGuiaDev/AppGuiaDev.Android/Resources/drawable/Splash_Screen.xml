@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 	<item>
+		<!--Cor de fundo da splash screen-->
 		<color android:color="@color/splash_background"/>
 	</item>
 	<item>
-		
+
+		<!--Aqui coloco a splashscreen
+		gravity é onde a imagem vai ser puxada-->
 		<bitmap
 			
 			android:src="@drawable/launcher_foreground"

@@ -39,6 +39,7 @@ namespace AppGuiaDev.Views
             // E-Mail
             try
             {
+                //Invoca outros app
                 await Launcher.OpenAsync("mailto:e070dir@cps.sp.gov.br");
             }
             catch (Exception ex)
@@ -60,7 +61,9 @@ namespace AppGuiaDev.Views
             }
             catch (Exception ex)
             {
-                if(await DisplayAlert("Ops, deu um erro", "Não conseguimos abrir o WhatsApp. Quer ligar para +55 (14) 3622-3566 ?", "Ligar", "Agora Não"))
+                //Ligar retorna true, Agora não retorna um false
+                if(await DisplayAlert("Ops, deu um erro", "Não conseguimos abrir o WhatsApp. " +
+                    "Quer ligar para +55 (14) 3622-3566 ?", "Ligar", "Agora Não"))
                 {
                     await Launcher.OpenAsync("tel:+5514996794615");
                 }

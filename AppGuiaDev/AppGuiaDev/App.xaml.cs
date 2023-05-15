@@ -10,6 +10,7 @@ namespace AppGuiaDev
         {
             InitializeComponent();
 
+            //Propriedade que Define a página inicial
             MainPage = new MainPage();
         }
 

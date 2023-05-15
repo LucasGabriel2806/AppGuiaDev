@@ -20,3 +20,25 @@ D:\2º DS\Pro Mob I\Apps\Guia Dev\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\net
 D:\2º DS\Pro Mob I\Apps\Guia Dev\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\refint\AppGuiaDev.dll
 D:\2º DS\Pro Mob I\Apps\Guia Dev\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.pdb
 D:\2º DS\Pro Mob I\Apps\Guia Dev\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\ref\AppGuiaDev.dll
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\bin\Debug\netstandard2.0\AppGuiaDev.deps.json
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\bin\Debug\netstandard2.0\AppGuiaDev.dll
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\bin\Debug\netstandard2.0\AppGuiaDev.pdb
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.csproj.AssemblyReference.cache
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\ComponentesPrimeiro.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\ComponentesSegundo.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\ComponentesTerceiro.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\Contato.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\VerComponente.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\Vestibulinho.xaml.g.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.AssemblyInfoInputs.cache
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.AssemblyInfo.cs
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.csproj.CoreCompileInputs.cache
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.dll
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\refint\AppGuiaDev.dll
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\AppGuiaDev.pdb
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\ref\AppGuiaDev.dll
+C:\Dev\Apps\AppGuiaDev\AppGuiaDev\AppGuiaDev\obj\Debug\netstandard2.0\Views\Inicial.xaml.g.cs

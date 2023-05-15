@@ -3,6 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaDev.MainPage">
 
+
+    <!--
+    Usamos a mainPage pra criar um conteiner que vai receber o menu sanduiche,
+    e o que vai aparecer no meio(conteudo da tela Inicial.xaml)
+    
+    MasterDetailPage é um conteiner pra 
+    criarmos o menu sanduiche, dentro dela eu coloco uma ContentPage.
+    ContentPage; dentro dela colocamos o layout que vamos usar, etc.
+    MaterDetailPage.Master:Aqui eu vou desenvolver a parte do meu menu.
+    MasterDetailPage.Detail:É o Conteudo, e ele recebe um NavigationPage.
+    
+    A contentPade do MasterDetailPage.Master deve ter um Title, Pois no android e Windows
+    aparece o menu sanduiche, mas no iOS, aparece esse Title. Sem esse title, gerara um 
+    erro, num arquivo MainPage.xaml.g.cs
+    --> 
+
     <MasterDetailPage.Master>
         <ContentPage Title="Menu">
             <Grid Background="#3E474C">
@@ -11,6 +27,11 @@
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
 
+                <!--Frame serve de empacotador de alguma coisa,
+                eu só empacotei o stackLayout porque ele não 
+                implementa o corner radius.
+                Coloquei na linha zero, como não especifiquei a coluna
+                ele fica na zero também-->
                 <Frame Grid.Row="0"
                        CornerRadius="10"
                        BackgroundColor="#EA131F"
